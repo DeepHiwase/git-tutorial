@@ -1,2 +1,2 @@
 console.log("hello!");
-console.log("Hi 3!");
+console.log("Hi!");
